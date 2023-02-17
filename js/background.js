@@ -12,3 +12,4 @@ document.body.appendChild(bgImage);
 
 style.backgroundImage = `url('img/${chosenImage}')`;
 style.backgroundSize = "cover";
+style.backgroundPosition = "center";
